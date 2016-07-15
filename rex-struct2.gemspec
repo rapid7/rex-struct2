@@ -6,12 +6,12 @@ require 'rex/struct2/version'
 Gem::Specification.new do |spec|
   spec.name          = "rex-struct2"
   spec.version       = Rex::Struct2::VERSION
-  spec.authors       = ["David Maloney"]
+  spec.authors       = ["David 'thelightcosine' Maloney"]
   spec.email         = ["DMaloney@rapid7.com"]
 
-  spec.summary       = %q{TODO: Write a short summary, because Rubygems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.summary       = %q{Rex C-Struct Library}
+  spec.description   = %q{Ruby Exploitation(Rex) library for generating/manipulating C-Style structs}
+  spec.homepage      = "https://github.com/rapid7/rex-powershell"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
   # to allow pushing to a single host or delete this section to allow pushing to any host.
