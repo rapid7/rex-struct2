@@ -1,8 +1,6 @@
 # Rex::Struct2
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/rex/struct2`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+Ruby Exploitation(Rex) Library for creating and using C-like structures. Useful for various protocol and binary analysis.
 
 ## Installation
 
