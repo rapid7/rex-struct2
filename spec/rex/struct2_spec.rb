@@ -5,7 +5,5 @@ describe Rex::Struct2 do
     expect(Rex::Struct2::VERSION).not_to be nil
   end
 
-  it 'does something useful' do
-    expect(false).to eq(true)
-  end
+
 end
