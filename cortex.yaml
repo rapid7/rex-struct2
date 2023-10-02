@@ -1,0 +1,15 @@
+---
+info:
+  title: Rex Struct2
+  description: Rex Library for creating and using C-like structures.
+  x-cortex-git:
+    github:
+      alias: r7org
+      repository: rapid7/rex-struct2
+  x-cortex-tag: rex-struct2
+  x-cortex-type: service
+  x-cortex-domain-parents:
+  - tag: metasploit
+openapi: 3.0.1
+servers:
+- url: "/"
